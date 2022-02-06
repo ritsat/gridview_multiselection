@@ -3,7 +3,7 @@
 A Flutter project to show hot to add multi selection in gridview.
 
 ## Getting Started
-You can refer below link for video tutorial for more details,
+You can refer below  video tutorial for more details,
 
 [Multi Selection in Gridview](https://youtu.be/QH5nQZd-LlY)
 
